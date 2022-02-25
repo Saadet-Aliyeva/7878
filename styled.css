@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    
+  
+  }
+   body {
+       width: 100%;
+       background-color: #f0f2f5;
+   }
+    form{
+        background-color: #fff;
+        position: absolute;
+        width: 320px;
+        height: 270px;
+        padding: 10px 5px 20px 5px;
+        padding-top: 20px;
+        padding-bottom: 300px;
+        padding-left: 35px;
+        padding-right: 35px;
+        border-radius: 5px ;
+        box-shadow: 5px 5px 6px -7px;
+  
+    }
+    .fl-1{
+        padding-left: 530px;
+        padding-top: 50px;
+        
+    }
+  
+    input[type='text'],input[type='password']{
+        display: block;
+        background-color: #fff;
+        margin: auto;
+        border: 1.5px solid #bcbcbc;
+        width: 200px;
+        padding: 10px 40px ;
+        border-radius: 5px;
+        text-align: center;
+        color: #000;
+        font-family: 'Segoe UI';
+        font-size: 15px;
+  
+    }
+  
+    button{
+        border: none;
+        background-color: #42b72a;
+        color: #fff;
+        margin: auto;
+        width: 283px;
+        display: block;
+        border-radius:  5px;
+        padding: 10px;
+        font-weight: bold;
+        cursor: pointer;
+  
+    }
+    p{
+        color: #797a7c;
+        cursor: pointer;
+        padding-bottom: 4px;
+        padding-top: 4px;
+    }
+
+    .day-1{
+
+        border-radius: 4px;
+        color: #1c1e21;
+        font-size: 15px;
+        width: 90px;
+        height: 36px;
+        line-height: 20px;
+        
+        
+    }
+    .month-1{
+        border-radius: 4px;
+        color: #1c1e21;
+        font-size: 15px;
+        width: 90px;
+        height: 36px;
+        line-height: 20px;
+    }
+    .year-1{
+        border-radius: 4px;
+        color: #1c1e21;
+        font-size: 15px;
+        width: 90px;
+        height: 36px;
+        line-height: 20px;  
+    }
+  
+.gender{
+    border-radius: 4px;
+    padding-left: 4px;
+    display: inline-block;
+    border: 1px solid #1c1e21;
+    font-size: 15px;
+    width: 90px;
+    height: 33px ;
+    line-height: 36px;
+}
+.gender-1{
+    border-radius: 4px;
+    padding-left: 4px;
+    display: inline-block;
+    border: 1px solid #1c1e21;
+    font-size: 15px;
+    width: 90px;
+    height: 33px ;
+    line-height: 36px;
+}
+
+.gender-2{
+    border-radius: 4px;
+    padding-left: 4px;
+    display: inline-block;
+    border: 1px solid #1c1e21;
+    font-size: 15px;
+    width: 90px;
+    height: 33px ;
+    line-height: 36px;
+}
+  .f-r{
+      padding-right: 22px;
+  }
+  .fr-1{
+      padding-right: 35px;
+  }
+  .f-r2{
+      padding-right: 33px;
+  }
+  h6{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      font-family: Arial;
+  }
